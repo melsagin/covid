@@ -1,0 +1,3 @@
+- Source: https://data.humdata.org/dataset/coronavirus-covid-19-cases-and-deaths
+- ISO Source: https://www.kaggle.com/datasets/juanumusic/countries-iso-codes
+- Region Source: https://www.kaggle.com/datasets/andradaolteanu/country-mapping-iso-continent-region
